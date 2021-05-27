@@ -576,3 +576,5 @@ https://gma2.blab.email/espnews.m3u8
 https://gma2.blab.email/espnu.m3u8
 #EXTINF:0 ,LBC
 https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:0 ,Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_480p_chunks.m3u8
