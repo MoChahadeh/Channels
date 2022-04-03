@@ -520,7 +520,7 @@ http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:0,tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0,TRT 1 (720p)
-https://tv-trt1.live.trt.com.tr/master.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Avaz (720p)
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Cocuk (720p)
@@ -531,6 +531,8 @@ https://tv-trthaber.live.trt.com.tr/master.m3u8
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Muzik (720p)
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:0, TRT Diyanet (1080p)
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0,TRT Türk (720p)
 https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:0,UçanKuş TV
@@ -538,7 +540,7 @@ https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:0,Iqraa TV
 https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
 #EXTINF:0,Al Resalah TV
-https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8?p=50&s=1646676844&e=1646763244&cf=1646763244&h=f885a8b70a791b1ca4ade25da04dde50
+https://rotananet.hibridcdn.net/rotana/risala_abr/rotana/risala_1080p/chunks.m3u8?p=50&s=1648985237&e=1649071637&cf=1649071637&h=35588a81ac08a0b72bafc1763967d016
 #EXTINF:0 ,NASA TV (720p)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:0 ,NASA TV (720p)
