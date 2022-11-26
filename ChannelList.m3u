@@ -520,7 +520,7 @@ http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:0,tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
 #EXTINF:0,TRT 1 (720p)
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Avaz (720p)
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:0,TRT Cocuk (720p)
